@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚀 Desafio 1 - Web Information And Videos 🚀
+	🚀 Web Information And Videos 🚀
 </h4>
 
 <p align="center">
@@ -48,11 +48,11 @@ Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/projeto1.gif" width="800px">
+ <img alt="web-information-and-videos" title="#web-information-and-videos" src="./github-assets/projeto1.gif" width="800px">
 
-  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/pagina1.png" width="400px">
+  <img alt="rocketseat-courses" title="#web-information-and-videos" src="./github-assets/pagina1.png" width="400px">
 
-  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/paginas2.png" width="400px">
+  <img alt="web-information-and-videos" title="#web-information-and-videos" src="./github-assets/paginas2.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como rodar este projeto
 
-Podemos considerar este projeto como sendo divido em três partes:
+Podemos considerar este projeto como tendo uma parte:
 1. Front End (todos os arquivos)
 
 💡 É possível rodar a aplicação Front End usando o live server do [Visual Studio Code][vscode] ou dando dois clicks no arquivo about.html.
