@@ -37,7 +37,7 @@ O usuário poderá ser redirecionado para:
 
 Na aba aulas o aluno tem acesso a seis cards referentes a vídeos do youtube da [Rocketseat](rs):
 - cada card tem uma thumbnail, título, tempo de duração e se o curso e pago ou gratuito;
-- ao clicar em cada card, será mostrado o vídeo descrito naquele card, através de uma janela que será aberta na própria apagia.
+- ao clicar em cada card, será mostrado o vídeo descrito naquele card, através de uma janela que será aberta na própria página.
 
 
 Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
