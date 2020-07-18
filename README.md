@@ -26,7 +26,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/web-information-and-videos-v1?style=social">
   </a>
 </p>
-
+ 
 
 ## 💻 Sobre o projeto
 
